@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "uranium",
+  "version": "${version}",
+  "name": "URANIUM",
+  "description": "Strong FPS optimizer: particle & entity culling, fog/shadow removal, adaptive profiles, menu & background throttling, HUD cache.",
+  "authors": ["you"],
+  "license": "MIT",
+  "icon": "assets/uranium/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.uranium.UraniumClient"]
+  },
+  "mixins": [
+    {
+      "config": "uranium.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "uranium.title": "URANIUM",
+  "uranium.particle_cull": "Отсекать частицы по дистанции",
+  "uranium.particle_dist": "Дистанция куллинга частиц",
+  "uranium.entity_cull": "Отсекать дальних сущностей",
+  "uranium.entity_cull_dist": "Дистанция куллинга сущностей",
+  "uranium.hide_shadows": "Скрыть тени сущностей",
+  "uranium.remove_fog": "Убрать туман",
+  "uranium.hide_vignette": "Скрыть виньетку",
+  "uranium.adaptive": "Адаптивный профиль",
+  "uranium.menu_throttle": "Ограничить FPS в меню",
+  "uranium.menu_fps": "Лимит FPS в меню",
+  "uranium.background_limit": "Ограничить FPS в фоне",
+  "uranium.background_fps": "Лимит FPS в фоне",
+  "uranium.hud_cache": "Кэш HUD (перерисовка только при изменении)"
+}

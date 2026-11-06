@@ -1,0 +1,16 @@
+{
+  "uranium.title": "URANIUM",
+  "uranium.particle_cull": "Cull particles by distance",
+  "uranium.particle_dist": "Particle cull distance",
+  "uranium.entity_cull": "Cull far entities",
+  "uranium.entity_cull_dist": "Entity cull distance",
+  "uranium.hide_shadows": "Hide entity shadows",
+  "uranium.remove_fog": "Remove fog",
+  "uranium.hide_vignette": "Hide vignette",
+  "uranium.adaptive": "Adaptive profile",
+  "uranium.menu_throttle": "Limit FPS in menus",
+  "uranium.menu_fps": "Menu FPS limit",
+  "uranium.background_limit": "Limit FPS in background",
+  "uranium.background_fps": "Background FPS limit",
+  "uranium.hud_cache": "Cache HUD (redraw only on change)"
+}

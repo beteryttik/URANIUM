@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.uranium.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "ParticleManagerMixin",
+    "LivingEntityRendererMixin",
+    "BackgroundRendererMixin",
+    "InGameHudMixin",
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
